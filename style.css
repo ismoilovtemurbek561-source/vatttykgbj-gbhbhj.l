@@ -1,0 +1,173 @@
+header{
+    max-width: 1800px;
+}
+
+.navbar_a{
+    background-color: #014E56;
+    width: 1400px;
+    display: flex;
+    gap: 990px;
+    align-items: center;
+}
+
+.navbar_a a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn{
+    background-color: #014E56;
+    width: 150px;
+    height: 45px;
+    border-radius: 25px;
+    border: solid white 2px;
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    color: #014E56;
+    border: solid #014E56 2px;
+}
+
+.btnXa{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.mytem{
+    font-size: 40px;
+}
+
+.navbar_aa{
+    background-color: #014E56;
+    width: 1400px;
+    height: 500px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    position: relative;
+    top: -203px;
+}
+
+.posi{
+    position: relative;
+    bottom: 10px;
+    display: flex;
+    gap: 400px;
+}
+
+.w{
+    color: white;
+}
+
+.w_2{
+    color: white;
+    font-size: 55px;
+}
+
+.w_3{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    bottom: -1px;
+}
+
+.main_block{
+    background-color: #004047;
+    width: 1400px;
+    height: 400px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    position: relative;
+    top: -403px;
+}
+
+.nikita{
+    background-color: #012F34;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+.mark{
+    color: #79C8C7;
+}
+
+.two_divs{
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 150px;
+}
+
+.main_2{
+    background-color: #012F34;
+    width: 1400px;
+    height: 400px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    position: relative;
+    top: -403px;
+}
+
+.w_4{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 550px;
+    top: -100px;
+}
+
+.imgs{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    position: relative;
+    left: 300px;
+}
+
+.negro{
+    color: black;
+    font-size: 60px;
+}
+
+.mini_main{
+    background-color: #F67E7E;
+    width: 1400px;
+    height: 200px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    position: relative;
+    top: -403px;
+}
+
+.btnXh{
+    display: flex;
+    gap: 350px;
+    align-items: center;
+}
+
+.neg{
+    background-color: #002529;
+    width: 1400px;
+    height: 200px;
+    display: flex;
+    gap: 1100px;
+    align-items: center;
+    position: relative;
+    top: -405px;
+}
+
+.mytema{
+    color: white;
+    font-size: 40px;
+}
